@@ -88,14 +88,5 @@ The app integrates with the DummyJSON API for:
 - Posts: https://dummyjson.com/posts/user/{userId}
 - Todos: https://dummyjson.com/todos/user/{userId}
 
-## Screenshots
 
-[Include screenshots here]
 
-## Future Enhancements
-
-- Unit and widget testing
-- Advanced filtering options
-- User authentication
-- Analytics integration
-- Localization support
